@@ -1,4 +1,0 @@
-tasks:
-  - init: |
-      chmod +x ./install.sh
-      ./install.sh
